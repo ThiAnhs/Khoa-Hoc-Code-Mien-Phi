@@ -151,19 +151,4 @@
 > 6. [Lập trình Web chuyên nghiệp với PHP-Level 3](https://drive.google.com/drive/folders/1-u80aHmKyoa7IK25ME5pF2SOqN8_8e7E?usp=sharing)
 > 7. [Lập trình Backend cho website bằng PHPMysql theo mô hình MVC với Codeigniter Framework 3x](https://drive.google.com/drive/folders/1QZfJK4Xp1e3WkPNaK3cU__daBFizgSNK?usp=sharing)
 
-## ![icons8_office_365_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-03-31-icons8_office_365_48px_1.png) Office
 
-> 1. [Microsoft Word Cơ Bản Và Hiệu Quả](https://drive.google.com/drive/folders/1Y995DiwpRNTJHAOmydEugbBFA6XFyQWS?usp=sharing)
-> 2. [Luyện Excel từ cơ bản tới nâng cao](https://drive.google.com/drive/folders/1qkFOucYL0SlEHy1wvtHP_dfGSaUjEunj?usp=sharing)
-> 3. [Powerpoint-Những Điều Bạn Chưa Biết](https://drive.google.com/drive/folders/1Te2U7l8lxmsjRFcF21v1_0eFPgbZ7B1a?usp=sharing)
-> 4. [Học Excel ứng dụng trong thực tiễn chuyên sâu - Google Drive](https://drive.google.com/drive/folders/1TzcdDb4jEAN6hVTNoHobBoitIVhe10mx?usp=sharing)
-> 5. [Học thiết kế và làm video Profile cá nhân bằng Power Point qua bài thực hành](https://drive.google.com/drive/folders/1UQYT8-XctqmgBEtX7DmIKnGF0qOplT3d?usp=sharing)
-> 6. [Làm báo cáo trong 15 phút với Excel Pivot](https://drive.google.com/drive/folders/18tIImG7lQf5lPBXOrGvgCC4wLNFoWu07?usp=sharing)
-
-## ![icons8_calculate_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-04-23-icons8_calculate_48px.png) Advanced Math
-
-> 1. [Đại số tuyến tính](https://drive.google.com/drive/folders/1s55CcmM3XX_F0oA5l-73Q5Xm1B4B9vX1?usp=sharing)
-> 2. [Giải tích 1](https://drive.google.com/drive/folders/1mT2icDFnbTzyd2I3wKXz8Za9dg_mlgRK?usp=sharing)
-> 3. [Giải tích 2](https://drive.google.com/drive/folders/1aeb1qNgoSmhFM4cbleMvc_MxUO8vxI1H?usp=sharing)
-> 4. [Xác suất thống kê](https://drive.google.com/drive/folders/1QkICJe1ZUCZFGgAPCkGcw_ekp6jQSq-8?usp=sharing)
-> 5. [Mathematica Cơ bản](https://drive.google.com/drive/folders/1q4DQnx3lt5sQKMMjHvwZd0DcV5uug1-J?usp=sharing)
